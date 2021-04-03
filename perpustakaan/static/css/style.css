@@ -1,0 +1,11 @@
+body {
+  background-color: #ffffff;
+}
+
+.jumbotron {
+  background: url("../images/perpus.jpg") no-repeat top center fixed;
+}
+
+h1, p {
+  position: center;
+}
