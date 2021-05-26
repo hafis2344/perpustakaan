@@ -112,5 +112,3 @@ def tambah_buku(request):
         }
 
     return render(request, 'tambah-buku.html', konteks)
-
-
